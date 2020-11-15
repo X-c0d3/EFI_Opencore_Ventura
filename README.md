@@ -1,4 +1,4 @@
-![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_063.png)
+![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_063.jpg)
 
 ### EFI - Opencore 0.6.3 for Big Sur 11.0.1 (AMD Hackintosh)
 
