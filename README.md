@@ -4,7 +4,7 @@
 
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
-Ram: Kingston HyperX FURY Black 16G (8x2) <br />
+Ram : KLEVV CRAS X + Kingston HyperX FURY Black  48G<br />
 SSD: Corsair MP600 PRO 1TB<br />
 Audio: Realtek ALC892 (worked) <br />
 Lan : Realtek RTL8111H (worked)<br />
