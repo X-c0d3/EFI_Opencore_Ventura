@@ -1,11 +1,11 @@
 ![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_063.jpg)
 
-### EFI - Opencore 0.6.8 for Big Sur 11.3 (AMD Hackintosh)
+### EFI - Opencore 0.7.2 for Big Sur 12.0 Beta 3 (AMD Hackintosh)
 
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
 Ram: Kingston HyperX FURY Black 16G (8x2) <br />
-SSD: Samsung SSD 970 Evo<br />
+SSD: Corsair MP600 PRO 1TB<br />
 Audio: Realtek ALC892 (worked) <br />
 Lan : Realtek RTL8111H (worked)<br />
 GPU : RX 580 8G native supported (worked)<br />
