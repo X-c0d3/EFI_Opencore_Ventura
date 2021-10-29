@@ -1,6 +1,6 @@
 ![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_063.jpg)
 
-### EFI - Opencore 0.7.4 for Monterey 12.0 Beta 7 (AMD Hackintosh)
+### EFI - Opencore 0.7.4 for Monterey 12.0.1 (AMD Hackintosh)
 
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
