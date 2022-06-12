@@ -1667,6 +1667,10 @@
 			<dict>
 				<key>rtc-blacklist</key>
 				<data></data>
+				<key>revcpuname</key>
+				<string>Ryzen 1700X</string>
+				<key>revcpu</key>
+				<integer>1</integer>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
@@ -1677,7 +1681,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 alcid=3 npci=0x2000 shikigva=128 -cdfon -lilubetaall revcpu=1</string>
+				<string>-v debug=0x100 keepsyms=1 alcid=3 npci=0x2000 shikigva=128 -cdfon -lilubetaall</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1721,10 +1725,10 @@
 		<dict>
 			<key>AdviseFeatures</key>
 			<false/>
-			<key>MLB</key>
-			<string>C02027207QXJG36A8</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
+			<key>MLB</key>
+			<string>C02716501J9JG36JA</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1736,9 +1740,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D1LZ2HX87</string>
+			<string>C02W90DAHX8F</string>
 			<key>SystemUUID</key>
-			<string>102FBFE1-B7CB-49B3-88A1-4BD36E22F881</string>
+			<string>AEBFCE50-7EOC-5274-ADBD-AF6218286D5D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
