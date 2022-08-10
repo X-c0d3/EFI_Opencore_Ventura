@@ -1,6 +1,6 @@
 ![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_063.jpg)
 
-### EFI - Opencore 0.8.2 for Ventura 13 Beta (AMD Hackintosh)
+### EFI - Opencore 0.8.3 for Ventura 13 Beta 5 (AMD Hackintosh)
 
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
