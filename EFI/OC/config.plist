@@ -753,7 +753,7 @@
 				<key>Comment</key>
 				<string>AMDRyzen CPUPower Management</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AMDRyzenCPUPowerManagement</string>
 				<key>MaxKernel</key>
@@ -771,7 +771,7 @@
 				<key>Comment</key>
 				<string>SMCAMD Processor</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCAMDProcessor</string>
 				<key>MaxKernel</key>
@@ -1512,7 +1512,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1667,10 +1667,6 @@
 			<dict>
 				<key>rtc-blacklist</key>
 				<data></data>
-				<key>revcpuname</key>
-				<string>Ryzen 1700X</string>
-				<key>revcpu</key>
-				<integer>1</integer>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
